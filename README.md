@@ -10,6 +10,9 @@
   <img alt="Badge" style="margin-right: 10px;" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
   <img alt="Badge" style="margin-right: 10px;" src="https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white"/>
   <img alt="Badge" style="margin-right: 10px;" src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+</div>
+
+<div style="white-space: nowrap;">
   <img alt="Badge" style="margin-right: 10px;" src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img alt="Badge" style="margin-right: 10px;" src="https://img.shields.io/badge/keras-%23D00000.svg?&style=for-the-badge&logo=keras&logoColor=white"/>
   <img alt="Badge" style="margin-right: 10px;" src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"/>
