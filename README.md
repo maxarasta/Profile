@@ -27,3 +27,10 @@
   <img alt="Badge" style="margin-right: 10px;" src="https://img.shields.io/badge/sql-%230E4C97.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="Badge" style="margin-right: 10px;" src="https://img.shields.io/badge/php-%23778CFF.svg?&style=for-the-badge&logo=php&logoColor=white"/>
 </div>
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=maxarasta)
+<!-- ![visitors](https://badges.pufler.dev/visits/maxarasta/maxarasta)
+![Visitor Count](https://profile-counter.glitch.me/maxarasta/count.svg) -->
+
+<!--  Acknowledgement: https://github.com/maxarasta/github-readme-stats -->
