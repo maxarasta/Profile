@@ -21,3 +21,9 @@
   <img alt="Badge" style="margin-right: 10px;" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </div>
 
+<div style="white-space: nowrap;">
+  <img alt="Badge" style="margin-right: 10px;" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="Badge" style="margin-right: 10px;" src="https://img.shields.io/badge/gitlab-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
+  <img alt="Badge" style="margin-right: 10px;" src="https://img.shields.io/badge/sql-%230E4C97.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="Badge" style="margin-right: 10px;" src="https://img.shields.io/badge/php-%23778CFF.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+</div>
