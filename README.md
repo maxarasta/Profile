@@ -22,7 +22,7 @@
     <img alt="Badge" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=flat&logo=pytorch&logoColor=white&logoWidth=30"/>
     <img alt="Badge" src="https://img.shields.io/badge/Keras-%23D00000.svg?&style=flat&logo=keras&logoColor=white&logoWidth=30"/>
     <img alt="Badge" src="https://img.shields.io/badge/-TensorFlow-white?&style=flat&logo=tensorflow&logoWidth=30"/>
-    <img alt="Hugging Face" src="https://img.shields.io/badge/HuggingFace-black.svg?style=flat&logo=huggingface"/>
+    <img alt="Hugging Face" src="https://img.shields.io/badge/HuggingFace-3a495d?style=flat&logo=huggingface"/>
     <img alt="Badge" src="https://img.shields.io/badge/OpenCV-%2300A86B.svg?&style=flat&logo=opencv&logoColor=white&logoWidth=30"/>
   </kbd>
 </div>
