@@ -1,6 +1,6 @@
 # Junior Engineer
 
-# 🚀 Languages and Tools:
+## 🚀 Languages and Tools:
 <p align="center">
   <kbd>
     <img alt="Badge" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
@@ -34,8 +34,6 @@
   </kbd>
 </p>
 
----
-
 ### 🏆 GitHub Trophies:
 <p align="center">
   <kbd>
@@ -63,23 +61,22 @@
   </kbd>
 </p>
 
----
-
-### 🎶 Current Project:
+## 🎶 Current Project:
 🔗 <a href="https://github.com/maxarasta/Music-generation"><b>Music Generation Repository</b></a>  
 💡 I'm currently working on a Deep learning project applied to **predictive music generation**—training AI to generate melodic patterns.
 
----
 
-### 🌐 Connect With Me:
+
+## 🌐 Connect With Me <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 <p align="center">
   <a href="https://github.com/maxarasta"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://linkedin.com/in/maxime-beaudoin-39035b1b7"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
----
-
-> **Thanks for stopping by!** 🚀  
-> <p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=maxarasta"/></p>
+<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=maxarasta"/></p>
+<br><br>
+<p align="center">
+  <strong>Thanks for stopping by! 🚀</strong>
+</p>
 
 <!--  Acknowledgement: https://github.com/maxarasta/github-readme-stats -->
