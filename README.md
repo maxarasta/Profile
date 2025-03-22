@@ -5,36 +5,37 @@
 ### 🚀 Languages and Tools
 <div align="center">
   <kbd style="display: inline-block;">
-    <img alt="Badge" src="https://img.shields.io/badge/Python-%231E90FF.svg?&style=flat&logo=python&logoColor=white&logoWidth=30"/>
-    <img alt="Badge" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?&style=flat&logo=jupyter&logoColor=white&logoWidth=30"/>
-    <img alt="Badge" src="https://img.shields.io/badge/-Node.js-black?&style=flat&logo=node.js&logoWidth=30"/>
-    <img alt="Badge" src="https://img.shields.io/badge/-JavaScript-black?&style=flat&logo=javascript&logoWidth=30"/>
-    <img alt="Badge" src="https://img.shields.io/badge/Dart-%231E90FF.svg?&style=flat&logo=dart&logoColor=white&logoWidth=30"/>
-    <img alt="Badge" src="https://img.shields.io/badge/-Flutter-3a495d?&style=flat&logo=flutter&logoColor=67b7f7&logoWidth=30"/>
-    <img alt="Badge" src="https://img.shields.io/badge/-Flask-white?&style=flat&logo=flask&logoColor=black&logoWidth=30"/>
-    <img alt="Badge" src="https://img.shields.io/badge/-Bash-black?&style=flat&logo=gnu-bash&logoColor=white&logoWidth=30"/>
-    <img alt="Badge" src="https://img.shields.io/badge/C%2B%2B-%231E90FF.svg?&style=flat&logo=c%2B%2B&logoColor=white&logoWidth=30"/>
+    <img alt="Badge" src="https://img.shields.io/badge/Python-%231E90FF.svg?style=flat&logo=python&logoColor=white"/>
+    <img alt="Badge" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=jupyter&logoColor=white"/>
+    <img alt="Badge" src="https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js"/>
+    <img alt="Badge" src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript"/>
+    <img alt="Badge" src="https://img.shields.io/badge/Dart-%231E90FF.svg?style=flat&logo=dart&logoColor=white"/>
+    <img alt="Badge" src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"/>
+    <img alt="Badge" src="https://img.shields.io/badge/-Flask-white?style=flat&logo=flask&logoColor=black"/>
+    <img alt="Badge" src="https://img.shields.io/badge/-Bash-black?style=flat&logo=gnu-bash&logoColor=white"/>
+    <img alt="Badge" src="https://img.shields.io/badge/C%2B%2B-%231E90FF.svg?style=flat&logo=c%2B%2B&logoColor=white"/>
   </kbd>
 </div>
 
 <div align="center">
   <kbd style="display: inline-block;">
-    <img alt="Badge" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=flat&logo=pytorch&logoColor=white&logoWidth=30"/>
-    <img alt="Badge" src="https://img.shields.io/badge/Keras-%23D00000.svg?&style=flat&logo=keras&logoColor=white&logoWidth=30"/>
-    <img alt="Badge" src="https://img.shields.io/badge/-TensorFlow-white?&style=flat&logo=tensorflow&logoWidth=30"/>
-    <img alt="Hugging Face" src="https://img.shields.io/badge/HuggingFace-3a495d?style=flat&logo=huggingface"/>
-    <img alt="Badge" src="https://img.shields.io/badge/OpenCV-%2300A86B.svg?&style=flat&logo=opencv&logoColor=white&logoWidth=30"/>
+    <img alt="Badge" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white"/>
+    <img alt="Badge" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=keras&logoColor=white"/>
+    <img alt="Badge" src="https://img.shields.io/badge/-TensorFlow-white?style=flat&logo=tensorflow"/>
+    <img alt="Badge" src="https://img.shields.io/badge/HuggingFace-3a495d?style=flat&logo=huggingface"/>
+    <img alt="Badge" src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white"/>
+    <img alt="Badge" src="https://img.shields.io/badge/OpenCV-%2300A86B.svg?style=flat&logo=opencv&logoColor=white"/>
   </kbd>
 </div>
 
 <div align="center">
   <kbd style="display: inline-block;">
-    <img alt="Badge" src="https://img.shields.io/badge/-Ubuntu-white?&style=flat&logo=Ubuntu&logoWidth=30"/>
-    <img alt="Badge" src="https://img.shields.io/badge/git-%23F05033.svg?&style=flat&logo=git&&logoColor=white&logoWidth=30"/>
-    <img alt="Badge" src="https://img.shields.io/badge/-GitLab-white?&style=flat&logo=gitlab&logoWidth=30"/>
-    <img alt="Badge" src="https://img.shields.io/badge/SQL-%230E4C97.svg?&style=flat&logo=mysql&logoColor=white&logoWidth=30"/>
-    <img alt="Badge" src="https://img.shields.io/badge/PHP-%23778CFF.svg?&style=flat&logo=php&logoColor=white&logoWidth=30"/>
-    <img alt="Badge" src="https://img.shields.io/badge/-Unity-white?&style=flat&logo=unity&logoColor=black&logoWidth=30"/>
+    <img alt="Badge" src="https://img.shields.io/badge/-Ubuntu-white?style=flat&logo=Ubuntu"/>
+    <img alt="Badge" src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white"/>
+    <img alt="Badge" src="https://img.shields.io/badge/-GitLab-white?style=flat&logo=gitlab"/>
+    <img alt="Badge" src="https://img.shields.io/badge/SQL-%230E4C97.svg?style=flat&logo=mysql&logoColor=white"/>
+    <img alt="Badge" src="https://img.shields.io/badge/PHP-%23778CFF.svg?style=flat&logo=php&logoColor=white"/>
+    <img alt="Badge" src="https://img.shields.io/badge/-Unity-white?style=flat&logo=unity&logoColor=black"/>
   </kbd>
 </div>
 
