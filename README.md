@@ -5,13 +5,13 @@
 ### 🚀 Languages and Tools:
 <div align="center">
   <kbd style="display: inline-block;">
-    <img alt="Badge" src="https://img.shields.io/badge/Python-%2300A6B9.svg?&style=flat&logo=python&logoColor=white"/>
-    <img alt="Badge" src="https://img.shields.io/badge/Jupyter-%233770A0.svg?&style=flat&logo=jupyter&logoColor=white"/>
+    <img alt="Badge" src="https://img.shields.io/badge/Python-%231E90FF.svg?&style=flat&logo=python&logoColor=white"/>
+    <img alt="Badge" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?&style=flat&logo=jupyter&logoColor=white"/>
     <img alt="Badge" src="https://img.shields.io/badge/Node.js-%234CAF50.svg?&style=flat&logo=node.js&logoColor=white"/>
-    <img alt="Badge" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat&logo=javascript&logoColor=black"/>
-    <img alt="Badge" src="https://img.shields.io/badge/Dart-%230175C2.svg?&style=flat&logo=dart&logoColor=white"/>
-    <img alt="Badge" src="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=flat&logo=flutter&logoColor=white"/>
-    <img alt="Badge" src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?&style=flat&logo=c%2B%2B&logoColor=white"/>
+    <img alt="Badge" src="https://img.shields.io/badge/JavaScript-%23FFD700.svg?&style=flat&logo=javascript&logoColor=black"/>
+    <img alt="Badge" src="https://img.shields.io/badge/Dart-%231E90FF.svg?&style=flat&logo=dart&logoColor=white"/>
+    <img alt="Badge" src="https://img.shields.io/badge/Flutter-%231E90FF.svg?&style=flat&logo=flutter&logoColor=white"/>
+    <img alt="Badge" src="https://img.shields.io/badge/C%2B%2B-%231E90FF.svg?&style=flat&logo=c%2B%2B&logoColor=white"/>
   </kbd>
 </div>
 
@@ -22,7 +22,7 @@
     <img alt="Badge" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=flat&logo=tensorflow&logoColor=white"/>
     <img alt="Badge" src="https://img.shields.io/badge/OpenCV-%2300A86B.svg?&style=flat&logo=opencv&logoColor=white"/>
     <img alt="Badge" src="https://img.shields.io/badge/Flask-%23000000.svg?&style=flat&logo=flask&logoColor=white"/>
-    <img alt="Badge" src="https://img.shields.io/badge/Shell%20Script-%23121011.svg?&style=flat&logo=gnu-bash&logoColor=white"/>
+    <img alt="Badge" src="https://img.shields.io/badge/Shell%20Script-%23000000.svg?&style=flat&logo=gnu-bash&logoColor=white"/>
   </kbd>
 </div>
 
