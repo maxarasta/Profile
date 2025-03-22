@@ -2,7 +2,7 @@
 
 ---
 
-### 🚀 Languages and Tools:
+### 🚀 Languages and Tools
 <div align="center">
   <kbd style="display: inline-block;">
     <img alt="Badge" src="https://img.shields.io/badge/Python-%231E90FF.svg?&style=flat&logo=python&logoColor=white&logoWidth=30"/>
